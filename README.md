@@ -31,7 +31,7 @@ The project runs entirely on ESP8266 and provides:
 
 ## Configuration (Important)
 
-Before flashing the firmware, **you must configure sensitive variables** according to your environment.  
+Before flashing the firmware, **you must configure sensitive variables** according to your environment (search by "// Change Me" to find every line that you need to change).  
 It is **strongly recommended** to move these values into a separate `secrets.h` file and exclude it from version control.
 
 ### 1. Wi-Fi credentials

@@ -1,6 +1,6 @@
 # WadESP-Wake
 
-WadESP-Wake is a lightweight ESP8266-based Wake-on-LAN controller with a built-in web panel, designed to remotely power on PCs and servers, monitor their online status, and trigger startup actions from any browser within the network.
+WadESP-Wake (WoL Version) is a lightweight ESP8266-based Wake-on-LAN controller with a built-in web panel, designed to remotely power on PCs and servers, monitor their online status, and trigger startup actions from any browser within the network.
 
 The project runs entirely on ESP8266 and provides:
 - Web-based control panel
